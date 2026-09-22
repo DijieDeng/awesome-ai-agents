@@ -50,6 +50,8 @@ The agentic AI ecosystem **exploded in 2024–2025**. What started as research p
 
 ---
 
+| [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) | ~2.1K | TypeScript | Open-source, local-first desktop AI workforce coordinated by a Commander through one chat. |
+
 ## Multi-Agent Frameworks
 
 | Project | Stars (approx.) | Language | Notes |
