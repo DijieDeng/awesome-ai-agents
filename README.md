@@ -74,6 +74,7 @@ The agentic AI ecosystem **exploded in 2024–2025**. What started as research p
 | [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native) | ~4.8K | TypeScript | Framework for building agentic apps. |
 | [langchain-ai/langgraphjs](https://github.com/langchain-ai/langgraphjs) | ~3.3K | TypeScript | LangGraph for JS/TS. |
 | [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) | ~3.4K | Python/TS | Production-ready agents in Python and TypeScript. |
+| [agbossjs/agboss](https://github.com/agbossjs/agboss) | — | TypeScript | TypeScript framework with static validation and dependency injection for LangGraph workflows. |
 
 ---
 
