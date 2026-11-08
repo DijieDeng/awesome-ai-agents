@@ -62,6 +62,7 @@ The agentic AI ecosystem **exploded in 2024–2025**. What started as research p
 | [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) | ~4.5K | Python | Reliable multi-agent orchestration. |
 | [kyegomez/swarms](https://github.com/kyegomez/swarms) | ~7K | Python | Enterprise-grade multi-agent orchestration. |
 | [agentuniverse-ai/agentUniverse](https://github.com/agentuniverse-ai/agentUniverse) | ~2.3K | Python | LLM multi-agent framework. |
+| [wanxingai/LightAgent](https://github.com/wanxingai/LightAgent) | ~1.2K | Python | Role-based routing, checkpointed workflows, and opt-in persistent dynamic DAGs with application-owned artifact verification. |
 
 ---
 
